@@ -17,19 +17,19 @@ BulldozerPIXI is a half-baked recreation of the Bulldozer game series created by
 
 ## Credits
 
-John 'FlyMan' Hattan for the Bulldozer game series.
+* John 'FlyMan' Hattan for his incredible work on the Bulldozer game series. Check out the fully featured mobile app at https://www.thecodezone.com/game/bulldozer.html
 
-Weston Campbell for the BulldozerAHK project. Tilemap graphics and map data were sourced from his repo. Check out his awesome implementation at https://github.com/westoncampbell/BulldozerAHK
+* Weston Campbell for the BulldozerAHK project. Tilemap graphics and map data were sourced from his repo. Check out his awesome implementation at https://github.com/westoncampbell/BulldozerAHK
 
-PixiJS  The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.    
-https://github.com/pixijs/pixijs
+* [PixiJS](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer    
 
-@pixi/tilemap - PixiJS Tilemap Kit:  Rectangular tilemap implementation for PixiJS   https://github.com/pixijs/tilemap
+
+* [@pixi/tilemap](https://github.com/pixijs/tilemap) - PixiJS Tilemap Kit:  Rectangular tilemap implementation for PixiJS   
  
 
 ## Play
 
-BulldozerPIXI is hosted publicly on github pages. Access it without limitations at https://bulldozer.cyberstein.tech.
+BulldozerPIXI is hosted publicly on github pages. You can access it at https://bulldozer.cyberstein.tech.
 
 ## Download
 
@@ -37,14 +37,19 @@ If you want to host the static files yourself, download the release and place th
 
 ## Instructions
 
-You can move the bulldozer character up(W or Up-Arrow keys), down(S or Down-Arrow keys), left(A or Left-Arrow keys) or right(D or Right-Arrow keys). If playing on a mobile device, you are limited to the onscreen arrow-key buttons.
+1. You can move the bulldozer character up(W or Up-Arrow keys), down(S or Down-Arrow keys), left(A or Left-Arrow keys) or right(D or Right-Arrow keys). If playing on a mobile device, you are limited to the onscreen arrow-key buttons.
+![Arrow keys](https://github.com/cyberstein-tech/bulldozerPIXI/blob/main/assets/keyboard.png)
 
-You can NOT push multiple boulders at any time. Only one at a time.
+1. You can NOT push multiple boulders at any time. Only one at a time.
+![Arrow keys](https://github.com/cyberstein-tech/bulldozerPIXI/blob/main/assets/fig1.png)
 
-You can NOT push against the wall or move through the walls.
+1. You can NOT push against the wall or move through the walls.
+![Arrow keys](https://github.com/cyberstein-tech/bulldozerPIXI/blob/main/assets/fig2.png)
 
-You can NOT push a boulder against the wall
+1. You can NOT push a boulder against the wall
+![Arrow keys](https://github.com/cyberstein-tech/bulldozerPIXI/blob/main/assets/fig3.png)
 
-Be careful with pushing boulders against the wall. The boulder might become "stuck" and you might have to restart the level. There is an option available to undo the bulldozer character's last move in the menu bar.
+1. Be careful with pushing boulders against the wall. The boulder might become "stuck" and you might have to restart the level. There is an option available to undo the bulldozer character's last move in the menu bar.
+![Arrow keys](https://github.com/cyberstein-tech/bulldozerPIXI/blob/main/assets/fig4.png)
 
 
