@@ -31,6 +31,8 @@ BulldozerPIXI is a half-baked recreation of the Bulldozer game series created by
 
 BulldozerPIXI is hosted publicly on github pages. You can access it at https://bulldozer.cyberstein.tech.
 
+![Gameplay](https://github.com/cyberstein-tech/bulldozerPIXI/blob/main/assets/gameplay-1.png)
+
 ## Download
 
 If you want to host the static files yourself, download the release and place the files in your web server root directory and serve.
@@ -38,18 +40,23 @@ If you want to host the static files yourself, download the release and place th
 ## Instructions
 
 1. You can move the bulldozer character up(W or Up-Arrow keys), down(S or Down-Arrow keys), left(A or Left-Arrow keys) or right(D or Right-Arrow keys). If playing on a mobile device, you are limited to the onscreen arrow-key buttons.
+
 ![Arrow keys](https://github.com/cyberstein-tech/bulldozerPIXI/blob/main/assets/keyboard.png)
 
-1. You can NOT push multiple boulders at any time. Only one at a time.
-![Arrow keys](https://github.com/cyberstein-tech/bulldozerPIXI/blob/main/assets/fig1.png)
+2. You can NOT push multiple boulders at any time. Only one at a time.
 
-1. You can NOT push against the wall or move through the walls.
-![Arrow keys](https://github.com/cyberstein-tech/bulldozerPIXI/blob/main/assets/fig2.png)
+![Figure 1](https://github.com/cyberstein-tech/bulldozerPIXI/blob/main/assets/fig1.png)
 
-1. You can NOT push a boulder against the wall
-![Arrow keys](https://github.com/cyberstein-tech/bulldozerPIXI/blob/main/assets/fig3.png)
+3. You can NOT push against the wall or move through the walls.
 
-1. Be careful with pushing boulders against the wall. The boulder might become "stuck" and you might have to restart the level. There is an option available to undo the bulldozer character's last move in the menu bar.
-![Arrow keys](https://github.com/cyberstein-tech/bulldozerPIXI/blob/main/assets/fig4.png)
+![Figure 2](https://github.com/cyberstein-tech/bulldozerPIXI/blob/main/assets/fig2.png)
+
+4. You can NOT push a boulder against the wall
+ 
+![Figure 3](https://github.com/cyberstein-tech/bulldozerPIXI/blob/main/assets/fig3.png)
+
+5. Be careful with pushing boulders against the wall. The boulder might become "stuck" and you might have to restart the level. There is an option available to undo the bulldozer character's last move in the menu bar.
+
+![Figure 4](https://github.com/cyberstein-tech/bulldozerPIXI/blob/main/assets/fig4.png)
 
 
