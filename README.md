@@ -13,7 +13,7 @@
 
 BulldozerPIXI is a half-baked recreation of the Bulldozer game series created by John 'FlyMan' Hattan (The Code Zone). This is a puzzle game (a variation of Sokoban) where the objective is to push the boulders onto the bullseye targets without getting them stuck on the tilemap. While the game concept is simple, some advanced map levels can be incredibly challenging.
 
-~~The aim of this project was to make my childhood favourite, playable on a modern web browser and even on mobile devices.~~ It has recently come to my attention, that the game is **available fully-featured for mobile platforms at [Codezone](https://www.thecodezone.com/game/bulldozer.html)**. 
+~~The aim of this project was to make my childhood favourite, playable on a modern web browser and even on mobile devices.~~ It has recently come to my attention, that the updated game series by the original author is **available fully-featured for mobile platforms at [Codezone](https://www.thecodezone.com/game/bulldozer.html)**. 
 
 ## Credits
 
