@@ -29,7 +29,7 @@ BulldozerPIXI is a half-baked recreation of the Bulldozer game series created by
 
 ## Play
 
-BulldozerPIXI is hosted publicly on github pages. You can access it at https://bulldozer.cyberstein.tech.
+BulldozerPIXI is hosted publicly on github pages. You can access it at https://cyberstein.tech/bulldozer.
 
 ![Gameplay](https://github.com/cyberstein-tech/bulldozerPIXI/blob/main/assets/gameplay-1.png)
 
